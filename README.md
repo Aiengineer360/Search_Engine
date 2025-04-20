@@ -45,7 +45,7 @@ A Python-based desktop search engine application that indexes and searches throu
 
 2. Run the application:
    ```bash
-   python Desktop Search_Engine.py
+   python Desktop_SearchEngine.py
    ```
 
 ## Usage
